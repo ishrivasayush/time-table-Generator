@@ -1,6 +1,7 @@
 ﻿<div align="center"><h1><b>AUTOMATED TIME-TABLE GENERATOR</b><br> (Using Java Swings)</h1>
 
-<img alt="preview" src="/readme-images/preview.png" width="65%"></div>
+![Screenshot (761)](https://github.com/ishrivasayush/time-table-Generator/assets/103355440/5675b74f-0e15-47c7-ba35-2759f272e319)
+
 
 ## Introduction
 Time Table Scheduling is an NP-hard problem and hence polynomial time verifiable using java. It a typical scheduling problem that appears to be a tedious job in every academic institute once or twice a year. In earlier days, time table scheduling was done manually with a single person or some group involved in task of scheduling it manually, which takes a lot of effort and time. Planning timetables is one of the most complex and error-prone applications.
@@ -69,13 +70,34 @@ You need to load the required jar files to make this project run
 
 ## Built With
 
-  * [Struts](https://struts.apache.org/) - The web framework used
-  * [Bootstrap](http://getbootstrap.com) - Mobile first Frontend Framework
   * CORE JAVA
   * Swings
   * AWT
   * Netbeans
   * MySql
+
+## Screenshots
+
+![Screenshot (762)](https://github.com/ishrivasayush/time-table-Generator/assets/103355440/243ca391-fc03-49b7-adc2-e71b5d17daf9)
+
+![Screenshot (763)](https://github.com/ishrivasayush/time-table-Generator/assets/103355440/3fe05ba7-e1b4-4368-9a2c-c63d1dd50272)
+
+![Screenshot (764)](https://github.com/ishrivasayush/time-table-Generator/assets/103355440/a91a32ef-0b2d-4ae5-bafc-4acca2b93d68)
+
+![Screenshot (765)](https://github.com/ishrivasayush/time-table-Generator/assets/103355440/8860b8d2-738b-48ce-a7a2-6962623afaa9)
+
+![Screenshot (766)](https://github.com/ishrivasayush/time-table-Generator/assets/103355440/afca8039-6a0a-4d22-8b1f-3fa25919d21d)
+
+![Screenshot (767)](https://github.com/ishrivasayush/time-table-Generator/assets/103355440/561edeab-9b33-48e9-9a3d-9ad2ab40be5f)
+
+![Screenshot (768)](https://github.com/ishrivasayush/time-table-Generator/assets/103355440/f6049e26-ab5c-41e2-8292-233afa013cf9)
+
+
+
+
+
+
+
   
   
 ## Conclusion and Further Work
