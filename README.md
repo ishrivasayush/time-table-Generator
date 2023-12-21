@@ -1,7 +1,8 @@
 ﻿<div align="center"><h1><b>AUTOMATED TIME-TABLE GENERATOR</b><br> (Using Core Java)</h1>
+ 
 
 ![Screenshot (761)](https://github.com/ishrivasayush/time-table-Generator/assets/103355440/5675b74f-0e15-47c7-ba35-2759f272e319)
-
+</div>
 
 ## Introduction
 Time Table Scheduling is an NP-hard problem and hence polynomial time verifiable using java. It a typical scheduling problem that appears to be a tedious job in every academic institute once or twice a year. In earlier days, time table scheduling was done manually with a single person or some group involved in task of scheduling it manually, which takes a lot of effort and time. Planning timetables is one of the most complex and error-prone applications.
