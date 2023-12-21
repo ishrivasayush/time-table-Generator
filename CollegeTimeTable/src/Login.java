@@ -74,7 +74,6 @@ public class Login extends javax.swing.JFrame {
         txtUser.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
 
         txtPass.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
-        txtPass.setText("ayush@123");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
