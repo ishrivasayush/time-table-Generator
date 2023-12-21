@@ -161,7 +161,7 @@ public class Login extends javax.swing.JFrame {
         }
         else
         {
-            JOptionPane.showMessageDialog(this,"User Doesn't exit");
+            JOptionPane.showMessageDialog(this,"Invalid email or password. Please try again.");
         }
              
     }//GEN-LAST:event_jButton1ActionPerformed
