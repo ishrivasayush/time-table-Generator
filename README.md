@@ -1,4 +1,4 @@
-﻿<div align="center"><h1><b>AUTOMATED TIME-TABLE GENERATOR</b><br> (Using Java Swings)</h1>
+﻿<div align="center"><h1><b>AUTOMATED TIME-TABLE GENERATOR</b><br> (Using Core Java)</h1>
 
 ![Screenshot (761)](https://github.com/ishrivasayush/time-table-Generator/assets/103355440/5675b74f-0e15-47c7-ba35-2759f272e319)
 
